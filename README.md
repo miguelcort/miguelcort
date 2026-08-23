@@ -114,30 +114,10 @@ A curated directory of **110 verified services with genuinely usable free plans*
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelcort&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelcort&theme=github" width="98%" alt="Profile summary" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelcort&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelcort&theme=github" height="200" alt="Repos per language" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguelcort&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguelcort&theme=github" height="200" alt="Most used languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelcort&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelcort&theme=github" height="200" alt="Contribution stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguelcort&theme=github_dark&utcOffset=-5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguelcort&theme=github&utcOffset=-5" height="200" alt="Productive time" />
-</picture>
-
-<img src="https://streak-stats.demolab.com?user=miguelcort&hide_border=true&background=00000000&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5&sideLabels=808080&dates=808080&stroke=808080" height="180" alt="Commit streak" />
+![Contributions](https://img.shields.io/badge/Contributions-861-4FD1C5?style=flat-square&labelColor=0F2027)
+![Commits](https://img.shields.io/badge/Commits-438-4FD1C5?style=flat-square&labelColor=0F2027)
+![Repos contributed to](https://img.shields.io/badge/Contributed_to-7_repos-4FD1C5?style=flat-square&labelColor=0F2027)
+![Since](https://img.shields.io/badge/On_GitHub_since-2011-4FD1C5?style=flat-square&labelColor=0F2027)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelcort&hide_border=true&bg_color=00000000&color=4FD1C5&line=2C5364&point=4FD1C5&area=true&area_color=2C5364" width="98%" alt="Contribution graph" />
 
