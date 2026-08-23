@@ -114,8 +114,30 @@ A curated directory of **110 verified services with genuinely usable free plans*
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=miguelcort&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=4FD1C5&icon_color=4FD1C5&text_color=808080" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcort&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=4FD1C5&text_color=808080" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelcort&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelcort&theme=github" width="98%" alt="Profile summary" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelcort&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelcort&theme=github" height="200" alt="Repos per language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguelcort&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguelcort&theme=github" height="200" alt="Most used languages" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelcort&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelcort&theme=github" height="200" alt="Contribution stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguelcort&theme=github_dark&utcOffset=-5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguelcort&theme=github&utcOffset=-5" height="200" alt="Productive time" />
+</picture>
+
+<img src="https://streak-stats.demolab.com?user=miguelcort&hide_border=true&background=00000000&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5&sideLabels=808080&dates=808080&stroke=808080" height="180" alt="Commit streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelcort&hide_border=true&bg_color=00000000&color=4FD1C5&line=2C5364&point=4FD1C5&area=true&area_color=2C5364" width="98%" alt="Contribution graph" />
 
