@@ -31,6 +31,8 @@ The things I'd actually want you to look at:
 |:--:|:--|:--|:--|
 | 🚦 | **[ChatVial](https://apps.apple.com/co/app/chatvial/id6793770088)** | AI legal advisor for traffic fines — runs natively on iPhone | `iOS · Live` |
 | 🔁 | **[Swaplai](https://swaplai.com)** | Habit tracking & goal-sharing where people exchange tasks | `Web · Live` |
+| 🎓 | **[GBCMC · Plataforma Docente](https://frontend-colegio-seven.vercel.app/documentos)** | AI lesson planner that turns a school's curriculum into ready activity plans | `Web · Live` |
+| ™️ | **[Markela](https://www.markela.co/)** | Trademark background search — due diligence before you name a brand | `Web · Live` |
 | 🧰 | **[Tabteca](https://tabteca.com)** | 110 verified free-tier dev services + a cross-device tab manager | `Web · Live` |
 | 🛡️ | **[Proxy-LLM](https://github.com/miguelcort/Proxy-LLM)** | Security proxy for LLM APIs: blocks prompt injection, redacts PII | `Python · OSS` |
 | 📚 | **[memorias_ciencia_datos](https://github.com/miguelcort/memorias_ciencia_datos)** | My working notes on data science — theory that survived production | `Docs · OSS` |
@@ -47,6 +49,20 @@ A Colombian software studio shipping web apps, mobile apps, e-commerce, fintech 
 
 - 🚦 **[ChatVial](https://apps.apple.com/co/app/chatvial/id6793770088)** — conversational legal assistance for traffic violations, on-device UX
 - 🔁 **[Swaplai](https://swaplai.com)** — habits, goals, and accountability as a social exchange
+
+### GBCMC · Plataforma Docente — [live demo](https://frontend-colegio-seven.vercel.app/documentos)
+
+An AI-assisted lesson planner for schools. Teachers spend hours translating the institutional curriculum into weekly activity plans by hand — this platform reads the curricular plan and generates coherent, aligned activity planning on top of it. Less paperwork, more teaching.
+
+- 📋 Activity plans derived directly from the school's own curriculum
+- 🤖 AI-generated drafts the teacher reviews and adjusts — the human stays in charge
+- 🏫 Built for the real administrative workflow of Colombian schools
+
+### Markela — [markela.co](https://www.markela.co/)
+
+> *"Búsqueda de antecedentes marcarios."*
+
+Trademark background search. Before you commit to a brand name, logo or product line, you find out what already exists — due diligence that used to mean a lawyer and a week of waiting.
 
 ### Tabteca — [tabteca.com](https://tabteca.com)
 
