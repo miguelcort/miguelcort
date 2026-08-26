@@ -154,12 +154,6 @@ A curated directory of **110 verified services with genuinely usable free plans*
 ## 💡 How I Work
 
 ```yaml
-philosophy:
-  - "Understand the concept before you touch a line of code."
-  - "AI is a tool. The human leads — but you have to know what to ask."
-  - "Data without context is noise. Context without data is opinion."
-  - "Ship it, measure it, then make it elegant."
-
 architecture:
   approach: [clean, hexagonal, screaming]
   testing: "behavior over implementation"
