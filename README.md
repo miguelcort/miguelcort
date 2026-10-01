@@ -161,7 +161,10 @@ A curated directory of **110 verified services with genuinely usable free plans*
 ![Repos contributed to](https://img.shields.io/badge/Contributed_to-7_repos-4FD1C5?style=flat-square&labelColor=0F2027)
 ![Since](https://img.shields.io/badge/On_GitHub_since-2011-4FD1C5?style=flat-square&labelColor=0F2027)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelcort&hide_border=true&bg_color=00000000&color=4FD1C5&line=2C5364&point=4FD1C5&area=true&area_color=2C5364" width="98%" alt="Contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelcort/miguelcort/output/contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/miguelcort/miguelcort/output/contribution-graph-light.svg" width="98%" alt="Contribution graph" />
+</picture>
 
 </div>
 

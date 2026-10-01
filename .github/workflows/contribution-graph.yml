@@ -1,0 +1,49 @@
+name: Contribution graph
+
+on:
+  schedule:
+    # Daily at 06:00 UTC (01:00 America/Bogota)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/contribution-graph.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Render and publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Render contribution graph
+        uses: Platane/snk@v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contribution-graph-light.svg?palette=github-light
+            dist/contribution-graph-dark.svg?palette=github-dark
+
+      # The SVGs live on a dedicated orphan branch so main keeps a clean history.
+      # The README reads them from this repository, so rendering the profile
+      # never depends on a third-party service being online.
+      - name: Publish to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init --quiet --initial-branch=output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit --quiet --message "chore: regenerate contribution graph"
+          git push --force --quiet \
+            "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
