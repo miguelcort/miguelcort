@@ -4,6 +4,8 @@
 
 <a href="https://bigboc.com"><img src="https://img.shields.io/badge/BigBoc-Founder-2C5364?style=for-the-badge&labelColor=0F2027" alt="BigBoc" /></a>
 <a href="https://www.linkedin.com/in/miguelangelcortescapera-cientificodedatos/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027" alt="LinkedIn" /></a>
+<a href="https://heroprompt.site"><img src="https://img.shields.io/badge/HeroPrompt-Live-7C3AED?style=for-the-badge&labelColor=0F2027" alt="HeroPrompt" /></a>
+<a href="https://alejotoys.com"><img src="https://img.shields.io/badge/AlejoToys-Live-F97316?style=for-the-badge&labelColor=0F2027" alt="AlejoToys" /></a>
 <a href="https://tabteca.com"><img src="https://img.shields.io/badge/Tabteca-Live-10B981?style=for-the-badge&labelColor=0F2027" alt="Tabteca" /></a>
 <img src="https://komarev.com/ghpvc/?username=miguelcort&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -29,6 +31,8 @@ The things I'd actually want you to look at:
 
 | | Project | What it is | Status |
 |:--:|:--|:--|:--|
+| ⚡ | **[HeroPrompt](https://heroprompt.site)** | 243+ prompt-ready design assets, an MCP server and WordPress plugins for AI-assisted web building | `Web · Live` |
+| 🧸 | **[AlejoToys](https://alejotoys.com)** | 3D-printed custom toys — a child sends a drawing, gets back a real object | `Web · Live` |
 | 🚦 | **[ChatVial](https://apps.apple.com/co/app/chatvial/id6793770088)** | AI legal advisor for traffic fines — runs natively on iPhone | `iOS · Live` |
 | 🔁 | **[Swaplai](https://swaplai.com)** | Habit tracking & goal-sharing where people exchange tasks | `Web · Live` |
 | 🎓 | **[GBCMC · Plataforma Docente](https://frontend-colegio-seven.vercel.app/documentos)** | AI lesson planner that turns a school's curriculum into ready activity plans | `Web · Live` |
@@ -40,6 +44,28 @@ The things I'd actually want you to look at:
 ---
 
 ## 🏗️ What I'm Building
+
+### HeroPrompt — [heroprompt.site](https://heroprompt.site)
+
+> *"El ecosistema para construir sitios web que enamoran."*
+
+An AI assistant can scaffold a website in minutes and still produce something generic. HeroPrompt is the design layer that fixes that: tested, prompt-ready assets that drop straight into Claude, Cursor, Lovable, v0 or WordPress and come out looking intentional.
+
+- 🎨 **243+ assets** — landing pages, components, animated backgrounds, themes; 86 free forever, updated weekly
+- 🔌 **MCP server** — query the catalog and audit SEO without leaving your chat
+- 🧩 **WordPress plugins** — speed, structured data, design-safe blocks
+- 👀 **Live previews** — hover a card and see the rendered site
+
+### AlejoToys — [alejotoys.com](https://alejotoys.com)
+
+> *"Juguetes impresos de uno en uno, para su hijo."*
+
+A 3D-printing workshop in Bogotá. No inventory, no mass production — every toy is printed after it is ordered. A child sends a drawing and gets it back as an object they can hold.
+
+- 🖍️ **Custom toys made from children's drawings**
+- 🦕 Catalog pieces: articulated dinosaur, reversible octopus, modular rocket, pocket robot
+- 🌱 Plant-based PLA, hand-sanded, plastic-free packaging
+- 📦 **La caja del mes** — monthly subscription with new figures
 
 ### BigBoc — [bigboc.com](https://bigboc.com)
 
