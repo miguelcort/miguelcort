@@ -33,11 +33,13 @@ The things I'd actually want you to look at:
 |:--:|:--|:--|:--|
 | ⚡ | **[HeroPrompt](https://heroprompt.site)** | 243+ prompt-ready design assets, an MCP server and WordPress plugins for AI-assisted web building | `Web · Live` |
 | 🧸 | **[AlejoToys](https://alejotoys.com)** | 3D-printed custom toys — a child sends a drawing, gets back a real object | `Web · Live` |
+| 💬 | **[Recompra](https://recompra.co)** | WhatsApp + email campaigns with an AI agent and per-sale revenue attribution for LatAm commerce | `SaaS · Live` |
 | 🚦 | **[ChatVial](https://apps.apple.com/co/app/chatvial/id6793770088)** | AI legal advisor for traffic fines — runs natively on iPhone | `iOS · Live` |
 | 🔁 | **[Swaplai](https://swaplai.com)** | Habit tracking & goal-sharing where people exchange tasks | `Web · Live` |
 | 🎓 | **[GBCMC · Plataforma Docente](https://frontend-colegio-seven.vercel.app/documentos)** | AI lesson planner that turns a school's curriculum into ready activity plans | `Web · Live` |
 | ™️ | **[Markela](https://www.markela.co/)** | Trademark background search — due diligence before you name a brand | `Web · Live` |
 | 🧰 | **[Tabteca](https://tabteca.com)** | 110 verified free-tier dev services + a cross-device tab manager | `Web · Live` |
+| 🧠 | **[ia_repository](https://github.com/miguelcort/ia_repository)** | AI engineering curriculum in Spanish — 20 phases, ~503 lessons | `Python · OSS` |
 | 🛡️ | **[Proxy-LLM](https://github.com/miguelcort/Proxy-LLM)** | Security proxy for LLM APIs: blocks prompt injection, redacts PII | `Python · OSS` |
 | 📚 | **[memorias_ciencia_datos](https://github.com/miguelcort/memorias_ciencia_datos)** | My working notes on data science — theory that survived production | `Docs · OSS` |
 
@@ -66,6 +68,18 @@ A 3D-printing workshop in Bogotá. No inventory, no mass production — every to
 - 🦕 Catalog pieces: articulated dinosaur, reversible octopus, modular rocket, pocket robot
 - 🌱 Plant-based PLA, hand-sanded, plastic-free packaging
 - 📦 **La caja del mes** — monthly subscription with new figures
+
+### Recompra — [recompra.co](https://recompra.co)
+
+> *"Vuelve a venderle a quien ya te compró."*
+
+Most retention tools report opens and clicks. Recompra reports money: it ties every purchase back to the exact message or conversation that produced it. Built on the official WhatsApp API for e-commerce and service businesses across LatAm.
+
+- 💬 **WhatsApp first, email as fallback** — one campaign, the platform picks the channel per customer
+- 🤖 **AI agent** trained on the business's own documents and site, handing off to a human when the customer asks
+- 📥 **Shared team inbox** — every conversation in one place, with automatic reassignment
+- 📊 **Revenue attribution** — sales and ROI per campaign and per conversation, not open rates
+- 🔌 Shopify, WooCommerce, PostgreSQL, MySQL, Google Sheets and a REST API
 
 ### BigBoc — [bigboc.com](https://bigboc.com)
 
@@ -99,7 +113,7 @@ A curated directory of **110 verified services with genuinely usable free plans*
 ### Open Source & Research
 
 - 🛡️ **[Proxy-LLM](https://github.com/miguelcort/Proxy-LLM)** — a defensive layer between your app and the model: prompt-injection detection, PII redaction, request policy
-- 🎓 **[ia_repository](https://github.com/miguelcort/ia_repository)** — Machine Learning course material, Universidad Distrital
+- 🧠 **[ia_repository](https://github.com/miguelcort/ia_repository)** — A complete AI engineering curriculum in Spanish: 20 phases, ~503 lessons, from math foundations to agent engineering and production infrastructure. A pedagogical Spanish adaptation of [Rohit Ghumare](https://github.com/rohitg00)'s MIT-licensed [AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch), with full attribution
 - ☁️ **[bsg_aws_2024](https://github.com/miguelcort/bsg_aws_2024)** — AWS training decks I've delivered
 
 ---
